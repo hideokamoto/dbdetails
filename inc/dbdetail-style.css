@@ -1,0 +1,19 @@
+.dbdetails{
+  position: relative;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.dbdetails .dbdetails-quote{
+  display: none;
+}
+.dbdetails.active .dbdetails-quote{
+  display: block;
+  position: absolute;
+  background: #fff;
+  font-size: 0.5rem;
+  padding: 10px;
+  margin-left: 0;
+  box-shadow: 1px 1px 5px #000;
+  width: 320px;
+  z-index: 999;
+}
