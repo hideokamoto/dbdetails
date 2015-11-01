@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Dbpedia-details
-Version: 0.1-alpha
+Version: 0.1
 Description: DBPedia日本語版から説明文を取得してポップアップ表示させるプラグインです。
 Author: Hideokamoto
 Author URI: http://wp-kyoto.net/
-Plugin URI: PLUGIN SITE HERE
+Plugin URI: https://github.com/hideokamoto/dbdetails
 Text Domain: dbpedia-details
 Domain Path: /languages
 */
